@@ -22,5 +22,8 @@ data/ → Raw dataset
 project/ → Excel analysis file
 
 ## Dashboard
-Bike Sales Analysis Dashboard
-Customer Demographics & Purchase Insights
+## Dashboard
+
+Bike Sales Analysis Dashboard – Customer Demographics & Purchase Insights
+
+![Bike Sales Dashboard](dashboard/bike_sales_dashboard.png)
