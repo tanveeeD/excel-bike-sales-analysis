@@ -1,4 +1,4 @@
-Bike Sales Data Analysis (Excel)
+## Bike Sales Data Analysis using Excel
 
 Project Overview
 This project analyzes customer bike purchasing behavior using Microsoft Excel.
