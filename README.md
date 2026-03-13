@@ -20,3 +20,7 @@ The dataset was cleaned and analyzed using Pivot Tables and visualized using an 
 ## Files
 data/ → Raw dataset  
 project/ → Excel analysis file
+
+## Dashboard
+Bike Sales Analysis Dashboard
+Customer Demographics & Purchase Insights
